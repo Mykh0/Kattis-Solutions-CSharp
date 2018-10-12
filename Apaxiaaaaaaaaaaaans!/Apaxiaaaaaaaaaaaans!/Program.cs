@@ -29,7 +29,6 @@ namespace Apaxiaaaaaaaaaaaans_
       }
 
       Console.WriteLine(apaxianName);
-      Console.ReadKey();
     }
   }
 }
